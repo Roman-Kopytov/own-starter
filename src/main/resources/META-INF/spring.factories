@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  "ru.spring.kopytov.starter.config.LoggingAutoConfiguration"
